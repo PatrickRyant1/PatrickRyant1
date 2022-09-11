@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickRyant1
 - 👀 I’m interested in Python development and data implementation.
-- 🌱 I’m currently learning Python, SQL and in the future, C++.
+- 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on data implementation projects.
 - 📫 Contact me via e-mail @ patrickryant1@gmail.com
